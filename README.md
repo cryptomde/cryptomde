@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cryptomde
 - 👀 I’m interested in Blockchains, cryptocurrencies, NFTs, WEB3
 - 🌱 I’m currently learning about DEFI and NFTs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on node running new projects
 - 📫 How to reach me cryptomde1@gmail.com
 
 <!---
